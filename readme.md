@@ -5,7 +5,11 @@ This is a simple solution for the Titanic ML competition. The goal is to use mac
 
 My model use the Random Forest method to classify which passengers will survived the shipwreck. This simple solution get me a precision of 78.9% and rank in the top 4%.
 
-## Installation
+## Online model
+You can directly try the model at this address:
+[Titanic model](https://mtrezzy-titanic.herokuapp.com/docs#/titanic_classifier/get_prediction__post)
+
+## Local Installation
 In order to run the notebooks, one must intall all the requirements.
 
 * install python and pip on your machine.
